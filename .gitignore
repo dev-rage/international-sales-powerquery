@@ -1,0 +1,22 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Excel backup files
+*.xlk
+
+# Power BI temporary files
+*.pbix.tmp
+~autoRecover*
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# macOS files
+.DS_Store
+
+# Personal information
+**/personal_info/
+**/sensitive_data/
